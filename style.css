@@ -66,3 +66,12 @@ body {
     border-radius: 4px;
     cursor: pointer;
   }
+/* Media Query */
+@media screen(min-width:600px){
+    #date-input{
+        width:100%;
+    }
+    #add-btn{
+        width:100%;
+    }
+}
