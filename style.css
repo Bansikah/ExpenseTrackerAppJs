@@ -67,11 +67,11 @@ body {
     cursor: pointer;
   }
 /* Media Query */
-@media screen(min-width:600px){
+/* @media screen and (max-width:992px) and (min-width:600px){
     #date-input{
         width:100%;
     }
     #add-btn{
         width:100%;
     }
-}
+} */ 
